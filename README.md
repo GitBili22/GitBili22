@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel
 - 👀 I'm starting my jorney this year (2025)
 - 🌱 I’m currently learning python and javascript
-- 📫 How to contect me: gabrielalexpt@gmail.com
+- 📫 How to get in touch with me: gabrielalexpt@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have ADHD and I'm Brazilian
 
